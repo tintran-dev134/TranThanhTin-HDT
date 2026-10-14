@@ -1,7 +1,16 @@
 # Sơ đồ lớp sơ bộ — EduHub
 
-Sơ đồ lớp 5 entity chính của hệ thống EduHub theo phân tích hướng đối tượng (OOAD) và Domain Modeling.
-Thể hiện đầy đủ các thuộc tính, phương thức hành vi, khoá ngoại (FK) và bội số quan hệ (multiplicity).
+Sơ đồ lớp 5 entity chính của hệ thống EduHub (Member, Club, Event, Registration, CheckIn) thể hiện thuộc tính, phương thức hành vi, các khoá ngoại (FK) và mối quan hệ.
+
+---
+
+## 1. Hình ảnh Sơ đồ lớp
+
+![Sơ đồ lớp EduHub](SoDoLopEduHub.png)
+
+---
+
+## 2. Sơ đồ dạng Mermaid
 
 ```mermaid
 classDiagram
